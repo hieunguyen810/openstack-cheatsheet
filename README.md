@@ -5,5 +5,10 @@
 4. Java
 5. OPENSTACK - Keystone
 6. OPENSTACK - Octavio
+7. OPENSTACK - Placement
+8. OPENSTACK - Overview
+9. OPENSTACK - NEUTRON
+10. OPENSTACK - CINDER
+
 
 
