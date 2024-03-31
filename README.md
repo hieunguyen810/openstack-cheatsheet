@@ -1,14 +1,18 @@
-### CheatSheet - How it works
+## CheatSheet - How it works
+
 1. LDAP
-2. OPENSTACK - Nova
-3. Apache Tomcat
-4. Java
-5. OPENSTACK - Keystone
-6. OPENSTACK - Octavio
-7. OPENSTACK - Placement
-8. OPENSTACK - Overview
-9. OPENSTACK - NEUTRON
-10. OPENSTACK - CINDER
+2. Apache Tomcat
+3. Java
+
+
+### OPENSTACK
+1. Overview
+2. Nova 
+3. Keystone
+4. Octavio
+5. Placement
+6. NEUTRON
+7. CINDER
 
 
 
